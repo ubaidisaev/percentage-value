@@ -1,0 +1,24 @@
+{
+  "name": "percentage-value",
+  "version": "1.0.4",
+  "description": "Percentage converting helper functions",
+  "main": "percentage-value.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ubaidullah05/percentage-value.git"
+  },
+  "keywords": [
+    "calc",
+    "percentage",
+    "percent"
+  ],
+  "author": "Ubaidullah Isaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubaidullah05/percentage-value/issues"
+  },
+  "homepage": "https://github.com/ubaidullah05/percentage-value#readme"
+}
